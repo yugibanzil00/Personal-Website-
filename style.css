@@ -1,0 +1,21 @@
+body{
+  font-family: Time New Roman;
+  background: #001e4a;
+  color: White;
+  
+}
+.welcome{
+  color: #56f921
+  font-size: 27px;
+  
+}
+.top span{
+  color: light blue;
+}
+.info{
+  border: 2px solid blue;
+  padding: 20px;
+}
+b{color:blue;}
+img{width: 100%;
+}
